@@ -1,2 +1,2 @@
 # hello-word
-My first project 
+This is my a example of a repository in gitHub  
